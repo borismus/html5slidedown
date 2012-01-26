@@ -12,5 +12,6 @@ To write a slide in markdown, do the following:
     </article>
 
 TODO:
+
 * Make it possible to pre-process, so that the markdown gets HTMLified
   statically.
